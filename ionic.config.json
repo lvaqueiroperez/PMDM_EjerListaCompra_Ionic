@@ -1,0 +1,7 @@
+{
+  "name": "EjerListaCompra",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
